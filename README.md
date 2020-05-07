@@ -35,9 +35,9 @@ Versioning tools will be dicussed with participants.
 
 ## Authors
 
-* **Nezir Yatman** - *Development and documentation* - [PurpleBooth](https://dev.azure.com/EbnerStolz/_usersSettings/about)
+* **Nezir Yatman** - *Development and documentation* 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/KurdishITProfessionals/UniversityManagementSystem.Api/contributors) who participated in this project.
 
 ## License
 
